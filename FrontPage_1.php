@@ -4,12 +4,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>FrontPage_InterSocial</title>
 
-<link href="/WebDevelopment/ExternalStyling_CSS.css" rel="stylesheet" type="text/css" />
+<link href="/WebDevelopment/social-workflow/ExternalStyling_CSS.css" rel="stylesheet" type="text/css" />
 
 <style>
 <!--best to eventually have images on the Website-->
 	.small {
-		background-image:url('/WebDevelopment/Oceans_Google.jpg'); background-size:100% 100%;
+		background-image:url('/WebDevelopment/social-workflow/Images/Oceans_Google.jpg'); background-size:100% 100%;
 		background-repeat:no-repeat;
 		border:3px solid red;
 		padding:5px;
@@ -27,7 +27,7 @@
 <div style= "display:inline-block; position:relative; top:0; left:0; padding:10px 300px 10px 10px; border:2px solid red;  background-color:#09F; color:#FC6; border-radius:10px 0px 10px 0px; 
 height:200px; width:600px;"> 
 	<div style= "display:inline-block; margin:30px auto 30px 10px; position:absolute; ">
-	<img src="http://localhost/WebDevelopment/SocialTradeLogo.jpg" alt="FrontPage_Logo" border="3" height="120" max-height="120"  />	
+	<img src="http://localhost/WebDevelopment/social-workflow/Images/SocialTradeLogo.jpg" alt="FrontPage_Logo" border="3" height="120" max-height="120"  />	
     </div>
     <div style= "display:inline-block; position:absolute; top:20px; left:300px;">
     	<div style="width:500px; margin: 20 10% auto 0;">
@@ -66,7 +66,7 @@ height:200px; width:600px;">
 <p>The dream is to see a society become more fulfilled with the capacity to create non-linear connections and interactions, to mix the variety of ideas and growing abilities, so that new knowledge, ways of doing things and cultures emerge and evolve, to build a world of infinite levels of cooperation, through naturally emergent creativity and towards the endeavor of greater peace/harmony.</p>
 </div>
  
-<form method="post"	action="/WebDevelopment/Post_NewMember.php" style="display:inline-block;margin-left:200px;">
+<form method="post"	action="/WebDevelopment/social-workflow/Post_NewMember.php" style="display:inline-block;margin-left:200px;">
 	<div style="display:block">
     	<input type="text" name="firstname"/> 	</div>
     <div style="display:block">
