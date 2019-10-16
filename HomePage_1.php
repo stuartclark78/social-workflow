@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>HomePage_InterSocial</title>
 
-<link href="/WebDevelopment/ExternalStyling_CSS.css" rel="stylesheet" type="text/css" />
+<link href="/WebDevelopment/SocialWorkflow/SocialWorkflow/ExternalStyling_CSS.css" rel="stylesheet" type="text/css" />
 
 <style>
 	a:link {
@@ -32,11 +32,11 @@
 height:140px; width:600px;"> 
 		<div style= "display:inline-block; margin:10px auto 10px 10px; position:absolute; ">
         
-<img src="/WebDevelopment/SocialTradeLogo.jpg" alt="FrontPage_Logo" border="2" height="100"/>
+<img src="/WebDevelopment/SocialWorkflow/SocialWorkflow/Images/SocialTradeLogo.jpg" alt="FrontPage_Logo" border="2" height="100"/>
 		</div>
     <!-- Go to Profile Page	-->
     	<div style="display:inline-block; position:absolute; top:50px; left:200px; padding: 10px; width:200px; margin:auto;">
-	<a href='/WebDevelopment/ProfilePage_1.php' style="display:block;">
+	<a href='/WebDevelopment/SocialWorkflow/ProfilePage_1.php' style="display:block;">
 See Your Profile
 	</a> 
         </div>
@@ -60,7 +60,7 @@ See Your Profile
 <br />
 <div style="display:inline-block; top:50px; left:50px; background-color: #0CF; padding: 10px; width:400px; margin:10px 5px 10px 0px;">
 	<p>You can add a service you wish to OFFER from your skills and/or profession.</p>
-	<a href='/WebDevelopment/NewSellingCapability_1.php' style="display:block;">
+	<a href='/WebDevelopment/SocialWorkflow/NewSellingCapability_1.php' style="display:block;">
 Add New Selling Capability
 	</a>
 </div>
@@ -68,7 +68,7 @@ Add New Selling Capability
 
 <div style="display:inline-block; top:50px; left:50px; background-color: #0CF; padding: 10px; width:400px; margin:10px 5px 10px 0px;">
 	<p>You can add a service you wish to BUY that someone else can offer from their skills and/or profession.</p>
-	<a href='/WebDevelopment/NewBuyingInterest_1.php' style="display:block;">
+	<a href='/WebDevelopment/SocialWorkflow/NewBuyingInterest_1.php' style="display:block;">
 Create New Buying Interest
 	</a>
 </div>
@@ -76,7 +76,7 @@ Create New Buying Interest
 
 <div style="display:inline-block; top:50px; left:50px; background-color: #0CF; padding: 10px; width:400px; margin:10px 5px 10px 0px;">
 	<p>You can add a new interest group and invite other people to attend - you will have exclusive administrator rights to the group, unless you give it away.</p>
-	<a href='/WebDevelopment/ManageGroups_1.php' style="display:block;">
+	<a href='/WebDevelopment/SocialWorkflow/ManageGroups_1.php' style="display:block;">
 Create a new, or amend an existing, Interest Group
 	</a>
 </div>

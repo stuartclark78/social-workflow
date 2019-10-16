@@ -11,7 +11,7 @@
 <!--<link rel="stylesheet" type="text/css" href="style.css" />
 <!-- Javascript file - create js folder within current folder	-->
 <!--	CSS STYLING	-->
-<link href="/WebDevelopment/ExternalStyling_CSS.css" rel="stylesheet" type="text/css" />
+<link href="/WebDevelopment/SocialWorkflow/ExternalStyling_CSS.css" rel="stylesheet" type="text/css" />
 
 <!--<style> CSS Styles		</style>-->
 <style>
@@ -28,11 +28,11 @@
 height:140px; width:600px;"> 
 		<div style= "display:inline-block; margin:10px auto 10px 10px; position:absolute; ">
         
-<img src="/WebDevelopment/SocialTradeLogo.jpg" alt="FrontPage_Logo" border="2" height="100"/>
+<img src="/WebDevelopment/SocialWorkflow/SocialTradeLogo.jpg" alt="FrontPage_Logo" border="2" height="100"/>
 		</div>
     <!-- Go to Profile Page	-->
     	<div style="display:inline-block; position:absolute; top:50px; left:200px; padding: 10px; width:200px; margin:auto;">
-	<a href='/WebDevelopment/HomePage_1.php' style="display:block;">
+	<a href='/WebDevelopment/SocialWorkflow/HomePage_1.php' style="display:block;">
 Go To Home Page
 	</a> 
         </div>
@@ -51,10 +51,10 @@ Go To Home Page
     	<div style='display:block; position:relative; top:30px; width:50%;'>
 			<video style="display:block; position:absolute;" id="intro"
     controls="controls" width=200px>
-				<source src="/WebDevelopment/testing_video_genesis.m4v" type="video/mp4" >
-    			<source src="/WebDevelopment/testing_video_genesis.ogg" type="video/ogg" >
-    			<source src="/WebDevelopment/testing_video_genesis.webm" type="video/webm" >
-				<source src="/WebDevelopment/testing_video_genesis.mp4" type="video/mp4" >
+				<source src="/WebDevelopment/SocialWorkflow/testing_video_genesis.m4v" type="video/mp4" >
+    			<source src="/WebDevelopment/SocialWorkflow/testing_video_genesis.ogg" type="video/ogg" >
+    			<source src="/WebDevelopment/SocialWorkflow/testing_video_genesis.webm" type="video/webm" >
+				<source src="/WebDevelopment/SocialWorkflow/testing_video_genesis.mp4" type="video/mp4" >
     	Your browser does not support this video type
 			</video>
     <!-- Control Video Size and Functions	-->
@@ -111,10 +111,10 @@ Text area for entering written profile of self - on right-hand side
         	<!-- This should display selected endorsements -->
         	<td>
         	<video style="display:inline-block; left:50px;" height="50px" width="150px" id="intro" controls="controls"   >
-				<source src="/WebDevelopment/Testing_Video_Genesis.m4v" type="video/mp4" >
-    			<source src="/WebDevelopment/testing_video_genesis.ogg" type="video/ogg" >
-    			<source src="/WebDevelopment/testing_video_genesis.webm" type="video/webm" >
-				<source src="/WebDevelopment/testing_video_genesis.mp4" type="video/mp4" >
+				<source src="/WebDevelopment/SocialWorkflow/Testing_Video_Genesis.m4v" type="video/mp4" >
+    			<source src="/WebDevelopment/SocialWorkflow/testing_video_genesis.ogg" type="video/ogg" >
+    			<source src="/WebDevelopment/SocialWorkflow/testing_video_genesis.webm" type="video/webm" >
+				<source src="/WebDevelopment/SocialWorkflow/testing_video_genesis.mp4" type="video/mp4" >
     Your browser does not support this video type
 			</video>
     		<!-- Control Video Size and Functions	-->
@@ -132,7 +132,7 @@ Text area for entering written profile of self - on right-hand side
 	</table>
     </div>
 	<!-- Place a link to list of sortable endorsements, so there needs to be a list of endorsements -->
-	<form method="post" action="/WebDevelopment/Video_Upload_2.php" enctype='multipart/form-data' style="display:inline-block;">     
+	<form method="post" action="/WebDevelopment/SocialWorkflow/Video_Upload_2.php" enctype='multipart/form-data' style="display:inline-block;">     
     	<input type="hidden" name="MAX_FILE_SIZE" value="10000000" />
     <!-- Browse video files for uploading -->
     	<input type='file' name="uploadFileVid" value="Choose Video to Upload"/>
@@ -151,7 +151,7 @@ Text area for entering written profile of self - on right-hand side
 	<p>See My Blogs...</p>
     
 <!--	LINK TO BLOG PAGE	-->
-	<a href='/WebDevelopment/BlogPage_1.php' style="display:block;" onMouseDown='javascript: alert("This will take you to the blog page.");' >
+	<a href='/WebDevelopment/SocialWorkflow/BlogPage_1.php' style="display:block;" onMouseDown='javascript: alert("This will take you to the blog page.");' >
 Link to other blogs
 	</a>
 </div>
