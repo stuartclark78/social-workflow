@@ -28,7 +28,7 @@
 height:140px; width:600px;"> 
 		<div style= "display:inline-block; margin:10px auto 10px 10px; position:absolute; ">
         
-<img src="/WebDevelopment/SocialWorkflow/SocialTradeLogo.jpg" alt="FrontPage_Logo" border="2" height="100"/>
+<img src="/WebDevelopment/SocialWorkflow/Images/SocialTradeLogo.jpg" alt="FrontPage_Logo" border="2" height="100"/>
 		</div>
     <!-- Go to Profile Page	-->
     	<div style="display:inline-block; position:absolute; top:50px; left:200px; padding: 10px; width:200px; margin:auto;">
